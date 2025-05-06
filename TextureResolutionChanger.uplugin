@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Easy texture resolution",
+    "Description": "Cambia la resolucion de una textura directamente desde el explorador de archivos de una forma sencilla",
+    "Category": "Editor",
+    "CreatedBy": "ItsDPR",
+    "CreatedByURL": "https://itsdpr.webflow.io",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": false,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": true,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "TextureResolutionChanger",
+            "Type": "Editor",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
